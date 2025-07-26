@@ -500,7 +500,6 @@
     }
 
     /* Socials Section */
-    /* Socials Section */
     #socials {
       padding: 5rem 0;
       background: var(--primary-color);
@@ -596,17 +595,17 @@
       opacity: 0.2;
     }
 
-    .social-link.instagram:hover { 
-      color: #E4405F; 
-      box-shadow: 0 20px 40px rgba(228, 64, 95, 0.4), 0 0 30px rgba(228, 64, 95, 0.6);
-    }
     .social-link.github:hover { 
-      color: #333; 
-      box-shadow: 0 20px 40px rgba(51, 51, 51, 0.4), 0 0 30px rgba(51, 51, 51, 0.6);
+      color: #F3EAD3; 
+      box-shadow: 0 20px 40px rgba(243, 234, 211, 0.4), 0 0 30px rgba(243, 234, 211, 0.6);
     }
     .social-link.linkedin:hover { 
       color: #0077B5; 
       box-shadow: 0 20px 40px rgba(0, 119, 181, 0.4), 0 0 30px rgba(0, 119, 181, 0.6);
+    }
+    .social-link.instagram:hover { 
+      color: #E4405F; 
+      box-shadow: 0 20px 40px rgba(228, 64, 95, 0.4), 0 0 30px rgba(228, 64, 95, 0.6);
     }
     .social-link.email:hover { 
       color: #EA4335; 
