@@ -28,8 +28,8 @@ Featured projects include:
 - **Bruno Mars Tribute Page**: Visually appealing tribute page with responsive design
 
 ### Certifications
-- Scientific Computing with Python (freeCodeCamp - 2025)
-- Responsive Web Design (freeCodeCamp - 2025)
+- Scientific Computing with Python (freeCodeCamp - Jun 2025)
+- Responsive Web Design (freeCodeCamp - Jul 2025)
 
 ### Contact
 Direct links to:
