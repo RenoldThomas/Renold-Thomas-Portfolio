@@ -30,6 +30,7 @@ Featured projects include:
 ### Certifications
 - Scientific Computing with Python (freeCodeCamp - Jun 2025)
 - Responsive Web Design (freeCodeCamp - Jul 2025)
+- JavaScript Algorithms and Data Structures (freeCodeCamp - Aug 2025)
 
 ### Contact
 Direct links to:
